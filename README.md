@@ -1,4 +1,9 @@
 # assesment
+
+* Screenshot of the app :
+
+![image](https://github.com/ibizah/assesment/assets/42846354/65e04f34-b53d-4206-9d58-79be6187daba)
+
 instructions:
 * Find the code in master branch 
 * find the assessment exercises on the AssesmentExersises folder : assesment-app\AssesmentExersises
