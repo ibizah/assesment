@@ -3,8 +3,9 @@
 }
 
 .App-logo {
-  height: 40vmin;
-  pointer-events: none;
+  display: block;
+  margin: 0 auto;
+  height: 113px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -35,4 +36,62 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/* Styles for the form container */
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
+  width: 400px;
+}
+ /* Styles for the form title */
+.form-title {
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 24px;
+  text-align: center;
+}
+ /* Styles for the form input label */
+.form-label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 18px;
+  text-align: center;
+}
+ /* Styles for the form input */
+.form-input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+ /* Styles for the form button */
+.form-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+ .form-button:hover {
+  background-color: #0062cc;
+}
+ /* Styles for the form result */
+.form-result {
+  margin-top: 20px;
+  font-size: 18px;
+  text-align: center;
 }
