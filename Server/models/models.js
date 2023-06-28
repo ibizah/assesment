@@ -8,6 +8,6 @@ const resultSchema = new Schema({
   }
 });
 
-const ResultModel = model('result', resultSchema);
+const ResultModel = model('results', resultSchema);
 
 export default ResultModel;
