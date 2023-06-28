@@ -7,4 +7,4 @@ instructions:
 * Find the url to mongoDb cluster in : https://cloud.mongodb.com/v2/649b69c54329191aae4316ae#/clusters
 username : ibiUser
 password : 181881@Ib
-database : results
+database : resultsDb
