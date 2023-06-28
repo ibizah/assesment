@@ -1,5 +1,6 @@
 # assesment
 instructions:
+* Find the code in master branch 
 * the assessment exercisesFind on the AssesmentExersises folder : assesment-app\AssesmentExersises
 * Find backend code in Server Folder : assesment-app\Server
 * Find front end code in src : assesment-app\src
